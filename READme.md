@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=홍대개발자&fontSize=50&animation=twinkling&rotate=-15&fontAlignY=36)
+![header]개발자재영
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wooder2050@gmail.com)](mailto:wooder2050@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/재영-강-52250a173/)](https://www.linkedin.com/in/재영-강-52250a173/)
 [![Insta Badge](https://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/devjaeyoung)](https://www.instagram.com/devjaeyoung)
