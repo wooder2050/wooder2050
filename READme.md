@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=%20JaeYoung%20&fontSize=80&textBg=true&animation=fadeIn)
-Hi, I'm JaeYong.
+# :hand: Hi, I'm JaeYong.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wooder2050@gmail.com)](mailto:wooder2050@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/재영-강-52250a173/)](https://www.linkedin.com/in/재영-강-52250a173/)
 [![Insta Badge](https://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/devjaeyoung)](https://www.instagram.com/devjaeyoung)
